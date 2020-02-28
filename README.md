@@ -2,6 +2,9 @@
 
 Tray backlight control for linux
 
+[![Build Status](https://travis-ci.org/oen9/tray-backlight-control.svg?branch=master)](https://travis-ci.org/oen9/tray-backlight-control)
+[![CircleCI](https://circleci.com/gh/oen9/tray-backlight-control.svg?style=svg)](https://circleci.com/gh/oen9/tray-backlight-control)
+
 ## how to use
 
 Add `tray-backlight-control` to autostart and just use it.\
